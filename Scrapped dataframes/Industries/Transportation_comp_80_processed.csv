@@ -1,0 +1,76 @@
+new_index,Company,Industry,Id,Tweet,Year,Date,No. Of Retweets,No. Of Favorites,Influence Score,Label,Month
+0,Metrorex,Transportation,1300807959828672512,"['pmb', 'solicit', 'priv', 'suspend', 'circul', 'lini', 'tramv', 'onor', 'octombr']",2020,2020-09-1,0,0,4,-1,2020-09
+1,Metrorex,Transportation,1298286375830265856,"['zi', 'coad', 'pest', 'licitat', 'arf', 'trenur', 'scurt', 'parcurs']",2020,2020-08-25,0,1,5,-1,2020-08
+2,Metrorex,Transportation,1294747777566740481,"['car', 'alstom', 'firm', 'francez', 'car', 'ministr', 'transportur', 'intretin', 'ram', 'metrou', 'period', 'amenint', 'faliment', 'dac', 'nu', 'plat', 'sum', 'fabul', 'intretin']",2020,2020-08-15,3,7,20,-1,2020-08
+3,Metrorex,Transportation,1294218420020482048,"['pregatest', 'exproprier', 'magistral', 'licitat', 'servic', 'cadastru']",2020,2020-08-14,0,1,5,1,2020-08
+4,Metrorex,Transportation,1290588118945538054,"['licitat', 'tevarai', 'profesor', 'metal', 'valoar', 'euro']",2020,2020-08-4,0,0,4,0,2020-08
+5,Metrorex,Transportation,1289918020740100098,"['dac', 'asa', 'raspund', 'roman']",2020,2020-08-2,0,0,4,-1,2020-08
+6,Metrorex,Transportation,1287999692228493314,"['pandem', 'prelungest', 'reviz', 'trenur', 'bombardier', 'nu', 'pie', 'schimb']",2020,2020-07-28,0,1,5,-1,2020-07
+7,Metrorex,Transportation,1286657898483941376,"['director', 'posibil', 'circular', 'metro', 'drum', 'tabere', 'septembr', 'ved']",2020,2020-07-24,0,0,4,0,2020-07
+8,Metrorex,Transportation,1286643544221003776,"['director', 'parc', 'straul', 'vorb', 'grad', 'neocup', 'parcar']",2020,2020-07-24,1,3,10,-1,2020-07
+9,Metrorex,Transportation,1286643499996270592,"['şef', 'intreb', 'dac', 'circul', 'metro', 'drum', 'tabere', 'septembr', 'ved']",2020,2020-07-24,1,1,8,-1,2020-07
+10,Metrorex,Transportation,1286628226501169152,"['galer', 'foto', 'parc', 'straulest', 'sabot', 'polit', 'local', 'sector']",2020,2020-07-24,1,0,7,1,2020-07
+11,Metrorex,Transportation,1285195897081667590,"['guvern', 'anuleaz', 'asocier', 'sector', 'moderniz', 'stat', 'metrou', 'piper']",2020,2020-07-20,0,0,4,-1,2020-07
+12,Metrorex,Transportation,1283653944732979201,"['pandem', 'coronavirus', 'redus', 'pierder', 'milioan', 'lei']",2020,2020-07-16,0,1,5,1,2020-07
+13,Metrorex,Transportation,1283367825751638019,"['personal', 'paz', 'metrou', 'redistribu', 'stat', 'trafic', 'intens']",2020,2020-07-15,0,0,4,0,2020-07
+14,Metrorex,Transportation,1283247787132493825,"['anunt', 'niciun', 'nu', 'infect', 'covid', 'magistral', 'drum', 'tabere', 'prapad', 'londr', 'pre', 'mult', 'metrou']",2020,2020-07-15,0,1,5,-1,2020-07
+15,Metrorex,Transportation,1283097236679921664,"['promit', 'main', 'spun', 'rezolv', 'mult', 'trenur', 'magistral']",2020,2020-07-14,0,1,5,-1,2020-07
+16,Metrorex,Transportation,1283051076149813256,"['primit', 'job', 'min', 'econom', 'findc', 'leg', 'trebui', 'pazit', 'incint', 'toat', 'afac', 'mizer', 'leg', 'camin', 'erau', 'paznic', 'betiv', 'firm', 'serioas', 'ave', 'contract', 'aper']",2020,2020-07-14,0,0,4,-1,2020-07
+17,Metrorex,Transportation,1282995310474792962,"['licitat', 'pest', 'milioan', 'euro', 'cart', 'magnet', 'cardur', 'contactles']",2020,2020-07-14,0,0,4,-1,2020-07
+18,Metrorex,Transportation,1279344645152165888,"['nu', 'pupat', 'nic', 'bar', 'scaun', 'dac', 'nu', 'vez', 'nu', 'inseamn', 'nu', 'intampl', 'une', 'lucrur', 'intampl', 'far', 'vez']",2020,2020-07-4,0,1,5,-1,2020-07
+19,Metrorex,Transportation,1279310884851113984,"['nu', 'fac', 'grev', 'impotr', 'nu', 'vazut', 'niciod', 'dezinfectand', 'bar', 'scaun', 'car', 'colcai', 'bacter', 'asta', 'nu', 'pun', 'nu']",2020,2020-07-4,0,1,5,-1,2020-07
+20,Metrorex,Transportation,1278872101982629888,"['marian', 'miclaus', 'demis', 'funct', 'director', 'general', 'news', 'stir']",2020,2020-07-3,0,0,4,-1,2020-07
+21,Metrorex,Transportation,1278725117653245959,"['gabriel', 'mocanu', 'noul', 'director', 'general', 'interimar', 'demis', 'mariane', 'miclauş']",2020,2020-07-2,0,0,4,-1,2020-07
+22,Metrorex,Transportation,1278724066778767362,"['marian', 'miclaus', 'director', 'out', 'funct', 'inadmis', 'motiv', 'car', 'ajuns']",2020,2020-07-2,0,0,4,-1,2020-07
+23,Metrorex,Transportation,1278708330958118913,"['gabriel', 'mocanu', 'noul', 'director', 'general', 'interimar']",2020,2020-07-2,0,0,4,-1,2020-07
+24,Metrorex,Transportation,1278697914928451584,"['şef', 'marian', 'miclauş', 'schimbat', 'funcţ', 'cauz', 'intarzier', 'magistral', 'raul', 'doamne', 'ero']",2020,2020-07-2,0,0,4,-1,2020-07
+25,Metrorex,Transportation,1278690398899253250,"['director', 'general', 'depus', 'mandat', 'cauz', 'esec', 'magistrale', 'drum', 'tabere', 'noul', 'sef', 'metrol', 'bucurestean', 'numit', 'ministr', 'transportur']",2020,2020-07-2,0,2,6,-1,2020-07
+26,Metrorex,Transportation,1278690398811099136,"['director', 'general', 'depus', 'mandat', 'cauz', 'esec', 'magistrale', 'drum', 'tabere', 'noul', 'sef', 'metrol', 'bucurestean', 'numit', 'ministr', 'transportur']",2020,2020-07-2,0,0,4,-1,2020-07
+27,Metrorex,Transportation,1278687456607506433,"['gabriel', 'mocanu', 'noul', 'director', 'general', 'interimar']",2020,2020-07-2,0,0,4,-1,2020-07
+28,Metrorex,Transportation,1278686533319634951,"['gabriel', 'mocanu', 'noul', 'director', 'general', 'interimar']",2020,2020-07-2,0,0,4,-1,2020-07
+29,Metrorex,Transportation,1278686393980444673,"['director', 'demis', 'ratat', 'termen', 'iun', 'deschid', 'magistrale']",2020,2020-07-2,0,0,4,-1,2020-07
+30,Metrorex,Transportation,1278683230137434113,"['breaking', 'victim', 'marian', 'miclaus', 'demis', 'conduc']",2020,2020-07-2,0,0,4,-1,2020-07
+31,Metrorex,Transportation,1275150897329459204,"['miniştr', 'transportur', 'director', 'general', 'incep', 'test', 'magistral', 'metrou', 'drum', 'tabere', 'via']",2020,2020-06-22,0,0,4,-1,2020-06
+32,Metrorex,Transportation,1275150872838918149,"['miniştr', 'transportur', 'director', 'general', 'incep', 'test', 'magistral', 'metrou', 'drum', 'tabere']",2020,2020-06-22,0,1,5,-1,2020-06
+33,Metrorex,Transportation,1270602939476967424,"['breaking', 'vagoan', 'crc', 'chin', 'contest', 'licitat']",2020,2020-06-10,0,0,4,-1,2020-06
+34,Metrorex,Transportation,1270357865283440641,"['breaking', 'caf', 'span', 'contest', 'licitat', 'trenur']",2020,2020-06-9,0,0,4,0,2020-06
+35,Metrorex,Transportation,1267142093211869184,"['plac', 'zme', 'asti', 'revolutionar', 'car', 'pis', 'fraier', 'car', 'poart', 'masc', 'magazin', 'stb', 'bun', 'bravo', 'suntet', 'cei', 'hm', 'ker', 'facut', 'floric', 'dansat', 'mandr']",2020,2020-05-31,0,7,11,1,2020-05
+36,Metrorex,Transportation,1266243152098156546,"['orban', 'promis', 'spun', 'altcev', 'acum']",2020,2020-05-29,0,1,5,1,2020-05
+37,Metrorex,Transportation,1266217363579510786,"['metro', 'drum', 'tabere', 'gat', 'probabil', 'final', 'ver', 'lun', 'viitoar', 'incep', 'probabil', 'metrou', 'angajament', 'guvern', 'orban', 'iun', 'pest', 'cap']",2020,2020-05-29,0,0,4,-1,2020-05
+38,Metrorex,Transportation,1266004615679610881,"['breaking', 'inaugur', 'aman', 'car', 'noul', 'termen', 'anunt']",2020,2020-05-28,0,0,4,1,2020-05
+39,Metrorex,Transportation,1265907703202938880,"['cic', 'exist', 'marcaj', 'scaun', 'jos', 'treb', 'ajut', 'pastr', 'distant', 'metr']",2020,2020-05-28,0,0,4,-1,2020-05
+40,Metrorex,Transportation,1260191836179779586,"['angaj', 'confirm', 'coronavirus']",2020,2020-05-12,0,0,4,-1,2020-05
+41,Metrorex,Transportation,1260187971485077505,"['angaj', 'confirm', 'pozit', 'coronavirus']",2020,2020-05-12,0,0,4,-1,2020-05
+42,Metrorex,Transportation,1260187113619894273,"['angaj', 'diagnostic', 'noul', 'coronavirus', 'barbat', 'afla', 'izol']",2020,2020-05-12,0,0,4,0,2020-05
+43,Metrorex,Transportation,1260118709009514496,"['breaking', 'inca', 'caz', 'coronavirus', 'coleg', 'intrat', 'izol']",2020,2020-05-12,0,0,4,-1,2020-05
+44,Metrorex,Transportation,1259815650559754245,"['primit', 'ofert', 'energ', 'livrat']",2020,2020-05-11,0,0,4,-1,2020-05
+45,Metrorex,Transportation,1259777768578924544,"['regul', 'mijloac', 'transport', 'comun', 'transportur', 'masur', 'aplic', 'aeroport']",2020,2020-05-11,1,4,11,1,2020-05
+46,Metrorex,Transportation,1259741655646830592,"['sindicalist', 'masur', 'sigur', 'metrou', 'aber']",2020,2020-05-11,0,0,4,0,2020-05
+47,Metrorex,Transportation,1259402837718638592,"['masur', 'anunt', 'minister', 'transportur', 'aeroport']",2020,2020-05-10,0,0,4,1,2020-05
+48,Metrorex,Transportation,1259160592801243141,"['masur', 'prop', 'star', 'alert', 'incepand', 'transport', 'aerian']",2020,2020-05-9,0,0,4,0,2020-05
+49,Metrorex,Transportation,1259145041928491008,"['transportur', 'masur', 'aplic', 'aeroport']",2020,2020-05-9,0,0,4,0,2020-05
+50,Metrorex,Transportation,1258664180846125057,"['circul', 'metro', 'masur', 'pregat']",2020,2020-05-8,0,2,6,1,2020-05
+51,Metrorex,Transportation,1258472215819010048,"['bod', 'scoat', 'toat', 'trenur', 'disponib', 'traseu', 'tin', 'une', 'tra', 'dreapt']",2020,2020-05-7,0,1,5,-1,2020-05
+52,Metrorex,Transportation,1257940328516124673,"['reia', 'evalu', 'tehnic', 'ofert', 'trenur', 'metrou', 'magistral']",2020,2020-05-6,0,0,4,-1,2020-05
+53,Metrorex,Transportation,1257313187348639747,"['director', 'marian', 'miclaus', 'spun', 'metro']",2020,2020-05-4,0,0,4,-1,2020-05
+54,Metrorex,Transportation,1257180256206807041,"['gabriel', 'fir', 'raed', 'araf', 'spun', 'circul', 'stb', 'relax', 'masur']",2020,2020-05-4,0,0,4,1,2020-05
+55,CFR Calatori,Transportation,1297143226474926080,"['tarziu', 'focsan', 'deschid', 'usi', 'vagon', 'peron', 'timisorean', 'sticl', 'vodk', 'vin', 'moldov', 'rog', 'never', 'chang']",2020,2020-08-22,1,11,18,-1,2020-08
+56,CFR Calatori,Transportation,1295278295316156418,"['atrag', 'atent', 'masc', 'obligator', 'toat', 'trenur', 'oper']",2020,2020-08-17,0,2,6,0,2020-08
+57,CFR Calatori,Transportation,1271098876443885568,"['mult', 'trenur', 'reintr', 'circulat', 'iun']",2020,2020-06-11,0,0,4,-1,2020-06
+58,CFR Calatori,Transportation,1259002313517215744,"['pregat', 'dou', 'trenur', 'muncit', 'austr', 'car', 'plec']",2020,2020-05-9,0,0,4,-1,2020-05
+59,CFR Calatori,Transportation,1258875712322207744,"['pregat', 'dou', 'trenur', 'muncit', 'austr', 'car', 'plec']",2020,2020-05-8,0,0,4,-1,2020-05
+60,CFR Calatori,Transportation,1258851175761416197,"['pregat', 'dou', 'trenur', 'muncit', 'austr', 'car', 'plec']",2020,2020-05-8,0,0,4,-1,2020-05
+61,TAROM,Transportation,1301041955460263936,"['incep', 'toamn', 'lumin', 'astaz', 'venit', 'chef', 'zbur', 'acas', 'acas', 'acum', 'zborur', 'saptamana', 'destin', 'urcam', 'avion', 'linist', 'bucur', 'privelist', 'satu']",2020,2020-09-2,0,0,4,1,2020-09
+62,TAROM,Transportation,1300107285784653826,"['fotograf', 'noul', 'interior', 'mdl', 'iran', 'airtour', 'avion', 'car', 'trecut', 'facut', 'part', 'flot', 'mult', 'detal', 'flight_lovers', 'instagr']",2020,2020-08-30,0,0,4,1,2020-08
+63,TAROM,Transportation,1300091834312646657,"['yr', 'lca', 'yr', 'lcb', 'intrat', 'flot', 'compan', 'iran', 'airtour', 'inmatricular', 'mdk', 'mdl']",2020,2020-08-30,0,3,7,0,2020-08
+64,TAROM,Transportation,1299274411820818438,"['ofer', 'salar', 'compens', 'angaj', 'car', 'paras', 'voluntar', 'compan', 'cat', 'despagub', 'news', 'stir']",2020,2020-08-28,0,0,4,0,2020-08
+65,TAROM,Transportation,1299254372266897409,"['cret', 'chan', 'ultra', 'last', 'minut', 'calatorest', 'charter', 'hotel', 'cret', 'plam', 'tarif', 'persoan', 'nopt', 'demipensiun', 'asigur', 'medic', 'transferur', 'tax', 'aeroport']",2020,2020-08-28,0,0,4,-1,2020-08
+66,TAROM,Transportation,1298177382638063618,"['santorin', 'calatorest', 'zbor', 'charter', 'copil', 'gratuitat', 'avion', 'asigur', 'covid', 'inclus', 'mult', 'detal', 'rezervar', 'iordach', 'emil']",2020,2020-08-25,0,0,4,-1,2020-08
+67,TAROM,Transportation,1297564019558166530,"['yr', 'asb', 'avar', 'amiaz', 'otopen', 'scar', 'mobil']",2020,2020-08-23,5,14,33,-1,2020-08
+68,TAROM,Transportation,1296326919877689345,"['fapt', 'divers', 'major', 'membr', 'car', 'part', 'consil', 'administrat', 'detin', 'stat', 'numit', 'filier', 'polit', 'nu', 'nicio', 'legatur', 'aviat', 'insa', 'trebui', 'deciz', 'critic', 'compan']",2020,2020-08-20,0,1,5,-1,2020-08
+69,TAROM,Transportation,1295828327215665152,"['ministr', 'transportur', 'vrem', 'pan', 'ajung', 'compan', 'profit']",2020,2020-08-18,0,0,4,-1,2020-08
+70,TAROM,Transportation,1295820187049107457,"['actualiz', 'neag', 'oficial', 'inform', 'public', 'liber']",2020,2020-08-18,0,0,4,1,2020-08
+71,TAROM,Transportation,1295793225660276742,"['autorit', 'işi', 'propun', 'aduc', 'profit', 'oper', 'aerian', 'naţional', 'pan', 'an', 'optimiz', 'tuturor', 'costur']",2020,2020-08-18,0,0,4,1,2020-08
+72,TAROM,Transportation,1295738501690925056,"['lucian', 'bod', 'restructurar', 'nu', 'angajar', 'reduc', 'angaj', 'realiz', 'fiec', 'component', 'part', 'news', 'stir']",2020,2020-08-18,0,0,4,-1,2020-08
+73,TAROM,Transportation,1295645795480489984,"['angaj', 'dou', 'steward', 'lucrat', 'compan', 'aerian', 'stat', 'perioad', 'determin', 'alin', 'raducanu', 'grigoriu', 'postur', 'ajutor', 'consilier', 'comunic', 'scrie', 'liber']",2020,2020-08-18,0,0,4,-1,2020-08
+74,TAROM,Transportation,1295645794377310208,"['mult', 'conduc', 'consider', 'nevoi', 'ajutoar', 'cei', 'consilier', 'comunic']",2020,2020-08-18,0,0,4,1,2020-08

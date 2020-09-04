@@ -1,0 +1,41 @@
+,Company,Industry,Id,Tweet,Year,Month,Date,No. Of Retweets,No. Of Favorites,Influence Score,Label
+0,eMAG,Consumer goods,1300451614654976001,"['zic', 'comentar']",2020,2020-08,2020-08-31,0,2,6,-1
+1,eMAG,Consumer goods,1300041119586234368,"['mar', 'reducer', 'azi', 'galaxy', 'peblog', 'news', 'stir']",2020,2020-08,2020-08-30,0,0,4,1
+2,eMAG,Consumer goods,1299636996021915648,"['telefoan', 'galaxy', 'reducer', 'peblog', 'news', 'stir']",2020,2020-08,2020-08-29,0,0,4,1
+3,eMAG,Consumer goods,1299342025003851776,"['resigil', 'pretur', 'lei', 'reducer', 'peblog', 'news', 'stir']",2020,2020-08,2020-08-28,0,1,5,1
+4,eMAG,Consumer goods,1299337025246683142,"['retras', 'piat', 'polon', 'vazut', 'nicio', 'stir', 'tem', 'asta', 'dar', 'dac', 'aces', 'redirectioneaz', 'stiu', 'lucrur', 'polon', 'nu', 'mers', 'pre', 'bin', 'cumpar', 'agito']",2020,2020-08,2020-08-28,0,0,4,-1
+5,eMAG,Consumer goods,1294530207219679232,"['vreun', 'motiv', 'anum', 'car', 'fortat', 'ios', 'folos', 'singur', 'tastatur', 'disponib', 'nic', 'macar', 'nu', 'ales', 'roman', 'autocomplet', 'englez', 'stupid', 'nic', 'nu', 'schimb']",2020,2020-08,2020-08-15,0,0,4,-1
+6,eMAG,Consumer goods,1281158621280288768,"['onlin', 'mereu', 'simplu', 'photoshop', 'onlin', 'vei', 'mereu', 'suplu']",2020,2020-07,2020-07-9,2,2,12,1
+7,eMAG,Consumer goods,1272930783276281858,"['parer', 'avet', 'can', 'filtr', 'bat', 'gand', 'iau', 'promot', 'facet', 'sugest']",2020,2020-06,2020-06-16,0,0,4,-1
+8,eMAG,Consumer goods,1272506608367566849,"['cut', 'lei', 'nu', 'putet', 'adaug', 'rahat', 'cut', 'protect', 'bubl', 'wrap', 'trebui', 'distrus', 'asa', 'cuti', 'asta', 'trimis', 'resigil', 'pret', 'asa', 'far', 'optiun', 'inlocu', 'produs', 'dracu', 'urasc', 'viat', 'servic', 'showrom']",2020,2020-06,2020-06-15,1,6,13,-1
+9,eMAG,Consumer goods,1254070504249573378,"['uit', 'chest', 'bine', 'adevar', 'dac', 'apar', 'ave', 'ptr', 'asa', 'ptr']",2020,2020-04,2020-04-25,0,2,6,-1
+10,eMAG,Consumer goods,1223944302507831296,"['pretur', 'luat', 'razn', 'rau', 'cost', 'asta', 'mult', 'decat', 'oled', 'baestiprost']",2020,2020-02,2020-02-2,0,4,8,-1
+11,eMAG,Consumer goods,1217769477561102338,"['acum', 'venit', 'mizer', 'asta', 'livr', 'dou', 'zi', 'dar', 'cei', 'prod', 'adic', 'telefon', 'telecomand', 'tablet', 'dar', 'sta', 'zil', 'telefon']",2020,2020-01,2020-01-16,0,0,4,-1
+12,eMAG,Consumer goods,1217432319436427265,"['uit', 'asa', 'vin', 'main', 'dar', 'nu', 'conteaz', 'oras', 'spunet', 'cei', 'livr', 'dou', 'zi', 'facet', 'abonament', 'lunar', 'livrar', 'rapid', 'toat', 'tar', 'nu', 'stat', 'zil', 'vin', 'dulap']",2020,2020-01,2020-01-15,0,1,5,-1
+13,eMAG,Consumer goods,1214856618439069702,"['nu', 'bin', 'intreb', 'cei', 'intampl', 'comand', 'inaint', 'arunc', 'rahat', 'degeab', 'iti', 'cer', 'scuz', 'acum', 'decat', 'ling', 'pest']",2020,2020-01,2020-01-8,0,0,4,-1
+14,eMAG,Consumer goods,1195587698179874816,"['caz', 'car', 'avet', 'nevoi', 'troler', 'nu', 'reusit', 'ier', 'cumpar', 'astaz', 'zec', 'bagaj', 'pret', 'redus', 'ofert', 'mii', 'prod', 'vez', 'promot', 'activ']",2019,2019-11,2019-11-16,0,0,4,1
+15,eMAG,Consumer goods,1195297281811079169,"['bin', 'cumpar', 'saptaman', 'inaint', 'iphon', 'pret', 'lei', 'acum', 'redus', 'lei', 'blackfriday']",2019,2019-11,2019-11-15,9,66,97,1
+16,eMAG,Consumer goods,1195223589932404736,"['caz', 'car', 'suntet', 'caut', 'unu', 'troler', 'ofert', 'black', 'friday', 'avet', 'disponib', 'zec', 'vez', 'ofert', 'trol']",2019,2019-11,2019-11-15,0,0,4,1
+17,eMAG,Consumer goods,1194188677070635008,"['ofert', 'black', 'friday', 'detal']",2019,2019-11,2019-11-12,0,0,4,1
+18,eMAG,Consumer goods,1183996299592556544,"['car', 'nu', 'client']",2019,2019-10,2019-10-15,0,4,8,-1
+19,eMAG,Consumer goods,1180930546744090624,"['sters', 'aplicat', 'nu', 'par', 'rau', 'anticomunist', 'carnet', 'partid', 'merit', 'scuipat', 'boicot']",2019,2019-10,2019-10-6,0,3,7,-1
+20,eMAG,Consumer goods,1174039351476609025,"['oficial', 'vandut', 'mil', 'dolar', 'fapt', 'prosus', 'colos', 'listat', 'burs', 'amsterd', 'car', 'detin', 'magazin', 'onlin', 'via']",2019,2019-09,2019-09-17,0,0,4,1
+21,eMAG,Consumer goods,1156884567523020800,"['comand', 'platit', 'iul', 'trimis', 'mesaj', 'mail', 'pachet', 'predat', 'curier', 'spun', 'pachet', 'intors', 'trimis', 'pachet', 'ier', 'depoz', 'cta']",2019,2019-08,2019-08-1,0,0,4,-1
+22,eMAG,Consumer goods,1156458966030999553,"['astaz', 'declar', 'client', 'exceptional', 'trimis', 'ofert', 'pempars', 'probabil', 'urmar', 'tuit', 'ier', 'car', 'pisasem', 'emot', 'client', 'high', 'clas', 'trolling', 'happening', 'o_o', 'truestory']",2019,2019-07,2019-07-31,0,8,12,1
+23,eMAG,Consumer goods,1148511976437485568,"['onlin', 'mereu', 'simplu', 'photoshop', 'onlin', 'vei', 'mereu', 'suplu']",2019,2019-07,2019-07-9,0,1,5,1
+24,eMAG,Consumer goods,1113148738887974912,"['nu', 'merg', 'plat', 'card', 'revol', 'revol']",2019,2019-04,2019-04-2,0,0,4,-1
+25,eMAG,Consumer goods,1301091966688559104,"['procesoar', 'amd', 'livrat', 'libert', 'fiec', 'zi']",2020,2020-09,2020-09-2,0,0,4,-1
+26,eMAG,Consumer goods,1301017415250255872,"['exclus', 'sef', 'ies', 'actionar', 'berar']",2020,2020-09,2020-09-2,0,1,5,-1
+27,eMAG,Consumer goods,1301001848158138369,"['exclus', 'sef', 'ies', 'actionar', 'berar', 'busines', 'aproap', 'milioan', 'lei', 'stanciu', 'ajut', 'construct', 'unu', 'brand', 'solid', 'concentr', 'dezvolt']",2020,2020-09,2020-09-2,0,0,4,1
+28,eMAG,Consumer goods,1300709995839971331,"['incep', 'enerv', 'faz', 'lei', 'lei', 'lei', 'fiec', 'comand']",2020,2020-09,2020-09-1,0,0,4,-1
+29,eMAG,Consumer goods,1300691974144561152,"['continu', 'consolid', 'cote', 'actionar', 'propr', 'curier']",2020,2020-09,2020-09-1,0,0,4,-1
+30,eMAG,Consumer goods,1300466257339260928,"['antreprenor', 'marketplac', 'sustin', 'printr', 'lin', 'credit', 'mil', 'euro', 'progrese', 'seler', 'powered', 'by', 'ide']",2020,2020-08,2020-08-31,0,0,4,1
+31,eMAG,Consumer goods,1300463163272499201,"['ofer', 'credit', 'milioan', 'euro', 'mic', 'afacer', 'marketplac', 'iat', 'poţ', 'obţin', 'imprum']",2020,2020-08,2020-08-31,2,3,13,1
+32,eMAG,Consumer goods,1300451614654976001,"['zic', 'comentar']",2020,2020-08,2020-08-31,0,2,6,-1
+33,eMAG,Consumer goods,1300370584094769152,"['seler', 'dou', 'rund', 'finant', 'valoar', 'milioan', 'euro']",2020,2020-08,2020-08-31,0,0,4,1
+34,eMAG,Consumer goods,1300041119586234368,"['mar', 'reducer', 'azi', 'galaxy', 'peblog', 'news', 'stir']",2020,2020-08,2020-08-30,0,0,4,1
+35,eMAG,Consumer goods,1299767399017840642,"['promot', 'via']",2020,2020-08,2020-08-29,0,0,4,0
+36,eMAG,Consumer goods,1299767201663250434,['promot'],2020,2020-08,2020-08-29,0,0,4,1
+37,eMAG,Consumer goods,1299661455197962248,"['fiec', 'asa', 'jur', 'luat', 'dou', 'laptopur', 'oal', 'cratit', 'bulshitur', 'without', 'fail', 'vreo', 'minut', 'max', 'ven', 'mesaj']",2020,2020-08,2020-08-29,0,1,5,-1
+38,eMAG,Consumer goods,1299660961452830720,"['dac', 'asa']",2020,2020-08,2020-08-29,0,0,4,-1
+39,eMAG,Consumer goods,1299636996021915648,"['telefoan', 'galaxy', 'reducer', 'peblog', 'news', 'stir']",2020,2020-08,2020-08-29,0,0,4,1
