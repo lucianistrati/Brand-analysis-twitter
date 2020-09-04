@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <style>
+        h1 {
+        text-align:center;
+        }
+         input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=date], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+    </style>
+</head>
+<body>
+<div>
+<form action="/analysis-details" method="POST">
+    <h1>Welcome to the Brand Analysis API</h1>
+    <p>This site purpose is to allow its users to find out how a certain company or an industry is perceived based on the tweets that exist on the web about that entity</p>
+    <p>Please select your whether you want to analyse a whole industry or just a company</p>
+
+    <input type="radio" id="tweet-analysis" name="entity-type" value="tweet-analysis">
+    <label for="tweet-analysis">Analyse a single tweet</label><br>
+
+    <input type="radio" id="company" name="entity-type" value="company">
+    <label for="company">Analyse a company</label><br>
+
+    <input type="radio" id="company-comparison" name="entity-type" value="company-comparison">
+    <label for="company-comparison">Analyse two companies</label><br>
+
+    <input type="radio" id="industry" name="entity-type" value="industry">
+    <label for="industry">Analyse an industry</label><br>
+
+    <input type="radio" id="industry-change" name="entity-type" value="industry-change">
+    <label for="industry-change">Change companies from an industry</label><br>
+
+    <input type="submit" value="Choose option">
+</form>
+</div>
+
+</body>
+</html>

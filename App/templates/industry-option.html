@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Industry analysis</title>
+    <style>
+      input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=date], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+    </style>
+</head>
+<body>
+<div>
+<form action="/industry-option" method="POST" id="industry-form">
+    <h3>Please select from one of the available industries</h3>
+<label for="industry">Choose the industry the company belongs to</label>
+             <select id = "industry" name ="industry-name" form="industry-form">
+<option value ="Consumer goods">Consumer goods</option>
+<option value ="Consumer services">Consumer services</option>
+<option value ="Financials">Financials</option>
+<option value ="Industrials">Industrials</option>
+<option value ="Technology">Technology</option>
+<option value ="Telecommunications">Telecommunications</option>
+<option value ="Transportation">Transportation</option>
+<option value ="Utilities">Utilities</option>
+<option value ="Energy">Energy</option>
+<option value ="Oil & gas">Oil & gas</option>
+#
+#
+#
+#
+#
+#
+#
+#
+
+             </select>
+    <br><br>
+    <!--
+    The standard input format for inserting data in the forms is the following: "YYYY-DD-MM"
+    -->
+    <label for="first_day">The first day of the analyzing period</label>
+    <input type="date"  placeholder="yyyy-dd-mm" id="first_day" name="first_day" min="2006-15-07" max="2099-12-31" ><br><br>
+
+    <label for="last_day">The last day of the analyzing period</label>
+    <input type="date"   placeholder="yyyy-dd-mm" id="last_day" name="last_day" min="2006-15-07" max="2099-12-31"><br><br>
+
+    <input type="submit" value="Create analysis report">
+</form>
+</div>
+</body>
+</html

@@ -1,0 +1,40 @@
+Toate scenariile
+
+
+2nd of september - evening
+
+                                Company                                         Company vs Company                                      Industry
+with location          TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                        01.may.2020-Today/Transportation
+                                 33-36 good distribution                            15                                                         15
+
+no location            TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                       01.may.2020-Today/Transportation
+                                 45-45 bad distribution                            111 average distribution                                   97
+
+with & no location       TAROM/01.01.2019-Today/Transportation            01.may.2020-Today/eMAG-MegaImage                         01.may.2020-Today/Transportation
+                                58 average distribution                          130 good distribution                                      97
+
+
+3rd of september - morning
+
+                                Company                                         Company vs Company                                      Industry
+with location          TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                        01.may.2020-Today/Transportation
+                                 12                                                 11                                                         13
+
+no location            TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                       01.may.2020-Today/Transportation
+                                 47 bad distribution                            116 average distribution                                   79
+
+with & no location       TAROM/01.01.2019-Today/Transportation            01.may.2020-Today/eMAG-MegaImage                         01.may.2020-Today/Transportation
+                                83 average distribution                          130 good distribution                                      94
+
+
+4th of september - morning
+
+                                Company                                         Company vs Company                                      Industry
+with location          TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                        01.may.2020-Today/Transportation
+                                 35 good distribution                                   17                                                 14
+
+no location            TAROM/01.01.2019-Today/Transportation                 01.may.2020-Today/eMAG-MegaImage                       01.may.2020-Today/Transportation
+                                 42 bad distribution                            108 average distribution                                   75
+
+with & no location       TAROM/01.01.2019-Today/Transportation            01.may.2020-Today/eMAG-MegaImage                         01.may.2020-Today/Transportation
+                                56 average distribution                          130 good distribution                                     88

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+                    <html>
+                    <head>
+                        <title>{{entity_type.capitalize()}} analysis</title>
+                        <meta name="viewport" content="width=device-width, initial-scale=1">
+                        <style>
+        h1 {
+        text-align:center;
+        }
+         input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+a {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=date], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+                            img {
+                                    width: 60%;
+                                    height: 100%;
+                             }
+                        </style>
+                    </head>
+                    <body>
+                    <div>
+                     <h1>{{ number_of_tweets }} tweets were found and analysed in {{
+        number_of_seconds }} seconds</h1>
+                    <img src="static/{{entity_type}}-report-{{ COUNTER }}.png">
+                     <a href="static/{{entity_name}}-report-no.{{COUNTER}}.pdf">Download report</a>
+                     </div>
+                    </body>
+                    </html>

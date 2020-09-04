@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Company comparison</title>
+     <style>
+      input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=date], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+    </style>
+</head>
+<body>
+<div>
+<form action="/company-comparison-option" method="POST" id="company-comparison-form">
+    <h3>Please enter the name of the brand you want to be analysed and select from one of the available industries</h3>
+
+    <label for="company-comparison-first">The name of the first company</label>
+    <input type="text" id="company-comparison-first" name="company-comparison-first"><br><br>
+
+    <label for="company-comparison-second">The name of the second company</label>
+    <input type="text" id="company-comparison-second" name="company-comparison-second"><br><br>
+
+    <!--
+    The standard input format for inserting data in the forms is the following: "YYYY-DD-MM"
+    -->
+    <label for="first_day">The first day of the analyzing period</label>
+    <input type="date"  placeholder="yyyy-dd-mm" id="first_day" name="first_day" min="2006-15-07" max="2099-12-31" ><br><br>
+
+    <label for="last_day">The last day of the analyzing period</label>
+    <input type="date"   placeholder="yyyy-dd-mm" id="last_day" name="last_day" min="2006-15-07" max="2099-12-31"><br><br>
+
+    <input type="submit" value="Create analysis report">
+</form>
+</div>
+</body>
+</html
